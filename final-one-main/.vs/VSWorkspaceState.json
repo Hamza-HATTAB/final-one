@@ -1,0 +1,22 @@
+{
+  "ExpandedNodes": [
+    "",
+<<<<<<< HEAD
+    "\\final-one-main",
+    "\\final-one-main\\PPR-main",
+    "\\final-one-main\\PPR-main\\Login2_copie",
+    "\\final-one-main\\PPR-main\\Login2_copie\\Veiw"
+  ],
+  "SelectedNode": "\\final-one-main\\PPR-main\\Login2_copie\\DataGrid.sln",
+=======
+    "\\PPR-main",
+    "\\PPR-main\\Login2_copie",
+    "\\PPR-main\\Login2_copie\\Veiw",
+    "\\PPR-main\\Login2_copie\\Veiw\\Admin",
+    "\\PPR-main\\Login2_copie\\Veiw\\Converters",
+    "\\PPR-main\\Login2_copie\\Veiw\\SimpleUser"
+  ],
+  "SelectedNode": "\\PPR-main\\Login2_copie\\Veiw\\SimpleUser\\SimpleUserFavoritesView.xaml",
+>>>>>>> old-origin/main
+  "PreviewInSolutionExplorer": false
+}
